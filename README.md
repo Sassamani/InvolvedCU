@@ -19,7 +19,7 @@ The project focuses on usability, accessibility, and user-centered design princi
 ## Demo Video
 
 A short demonstration of the project is available on YouTube:  
- https://youtu.be/M9DK_L67JxY
+ https://youtu.be/BwBrke-zgVg
 
 
 
